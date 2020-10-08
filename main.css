@@ -1,0 +1,23 @@
+.lcustom_field {
+	background: #fff;
+  border-radius: 10px;
+  border: 1px solid #e5e7f2;
+  margin-bottom: 20px;
+	font-size: 1.154em;
+  font-weight: 600;
+  color: #566985;
+  font-family: 'Nunito', sans-serif;
+  border-bottom: 1px solid #eee;
+  padding: 18px 30px;
+  position: relative;
+}
+.lcfield-value{
+	color: #878C9F;
+    font-size: 0.923em;
+    line-height: 24px;
+    padding-bottom: 10px;
+}
+	
+.breadcrumbs{
+		padding-top:2em;
+	}
